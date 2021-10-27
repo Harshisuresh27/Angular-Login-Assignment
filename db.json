@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "firstName": "sdvdb",
+      "lastName": "fgb",
+      "email": "gbjj@gmail.com",
+      "mobile": "890547689",
+      "salary": "790"
+    },
+    {
+      "id": 6,
+      "firstName": "hj",
+      "lastName": "yuo",
+      "email": "bjk2gmail.com",
+      "mobile": "800",
+      "salary": "900"
+    }
+  ],
+  "comments": [],
+  "signupUsers": [
+    {
+      "username": "Anu",
+      "email": "anu@gmail.com",
+      "password": "anu",
+      "mobile": 7853389876,
+      "id": 1
+    },
+    {
+      "username": "Amar",
+      "email": "amar@gmail.com",
+      "password": "amar",
+      "mobile": 6789456789,
+      "id": 2
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
